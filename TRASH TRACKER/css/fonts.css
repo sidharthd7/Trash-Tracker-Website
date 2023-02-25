@@ -1,0 +1,32 @@
+@font-face{
+    font-family: Bebas_Neue;
+    src:url('../Fonts/Bebas_Neue/BebasNeue-Regular.ttf')
+}
+@font-face{
+    font-family: IBM_Plex_Sans;
+    src:url('../Fonts/IBM_Plex_Sans/IBMPlexSans-SemiBold.ttf')
+}
+@font-face{
+    font-family: Nanum_Gothic;
+    src:url('../Fonts/Nanum_Gothic/NanumGothic-Regular.ttf')
+}
+@font-face{
+    font-family: Poppins;
+    src:url('../Fonts/Poppins/Poppins-ExtraLight.ttf')
+}
+@font-face{
+    font-family: Ubuntu;
+    src:url('../Fonts/Ubuntu/Ubuntu-Regular.ttf')
+}
+@font-face{
+    font-family: Roboto;
+    src:url('../Fonts/Roboto/Roboto-Thin.ttf')
+}
+@font-face{
+    font-family:Rob-Regular;
+    src:url('../Fonts/Roboto/Roboto-Regular.ttf')
+}
+@font-face{
+    font-family: Ubu-medium;
+    src:url('../Fonts/Ubuntu/Ubuntu-Medium.ttf')
+}
